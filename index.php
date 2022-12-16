@@ -1,4 +1,4 @@
 <?php
 
 
-echo rand(1, 100) . rand(1, 100);
+echo "PRDC : ".rand(1, 100) . rand(1, 100);
